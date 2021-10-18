@@ -1,0 +1,10 @@
+.ProfilButton {
+    margin: 10px;
+    margin-top: -350px;
+    color: #000000;
+    font: bold;
+    background-color: white;
+    border: 2px solid #8e00b9;
+    padding: 0.6rem;
+    border-radius: 6px;
+}
